@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="fr" ng-app>
+<html lang="fr" ng-app="scoreboardApp">
 	<head>
 
 		<meta charset="utf-8">
@@ -45,7 +45,7 @@
 	</head>
 
 
-	<body>
+	<body ng-controller="ScoreboardCtrl">
 
 		<div class="container">
 				
@@ -57,10 +57,14 @@
       S&eacute;lectionnez une comp&eacute;tition depuis la liste pour obtenir ses r&eacute;sultats ou s&eacute;lectionnez "R&eacute;sultat global" pour obtenir un apper&ccedil;u global des positions.
     </p>                  
 
-<form name="frmResults" id="frmResults" method="post" action="">      
-  <select name="cboComp" id="cboComp" onChange="document.frmResults.submit()">
-    <option value="">Résultat global</option>
-    <option value="5">Algorithmic: 5%</option><option value="1">Chasse au trésor / Casse-tête du Héro: 10%</option><option value="8">Compilation: 7%</option><option value="14">Débogage: 6%</option><option value="15">Developpement Mobile: 5%</option><option value="10">Informatique Théorique: 5%</option><option value="9">Ingénierie logicielle: 6%</option><option value="4">Intelligence Artificielle: 7%</option><option value="2">Longue haleine: 8%</option><option value="16">Parallélisme: 5%</option><option value="17">Participation: 3%</option><option value="6">Programmation à relais: 5%</option><option value="3">Programmation Extrême: 6%</option><option value="11">Programmation Web: 5%</option><option value="13">Rétroingenerie: 5%</option><option value="12">Sport & Jeux Vidéo: 7%</option><option value="7">Système d’exploitation: 5%</option>  </select>
+<form name="frmResults" id="frmResults" method="post" action=""> 
+ <select name="cboEvent" id="cboEvent" ng-model="scoreboard.edition" ng-change="updateSelector()" >
+    <option ng-repeat="e in events" value="{{e.year}}">{{e.year}} - {{e.host}}</option>
+  </select>  
+
+  <select name="cboComp" id="cboComp" ng-model="scoreboard.competition" ng-change="updateScoreboard()">
+    <option ng-repeat="c in competitions" value="{{c.compResults}}"  >{{c.compName_en}} - {{c.compWeight}}%</option>
+  </select>
 
 <h2>R&eacute;sultat Global</h2>    
     
@@ -75,7 +79,12 @@
   </thead>
   <tbody>
 
-    <tr><td class="tableContent" align="center">1</td><td class="tableContent">École de Technologie Supérieure1</td><td class="tableContent">StuxnETS</td><td class="tableContent" align="center">82.38</td></tr
+    <tr ng-repeat="r in results">
+      <td class="tableContent" align="center">{{$index + 1}}</td>
+      <td class="tableContent">{{r.delegUniversity}}</td>
+      <td class="tableContent">{{r.delegAlias}}</td>
+      <td class="tableContent" align="center">{{r.teamScore}}</td>
+    </tr>
 
   </tbody>
 </table>
@@ -87,13 +96,47 @@
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
     <script src="js/angular.min.js"></script>
+
 		<script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      var scoreboardApp = angular.module('scoreboardApp', []);
+      
+
+      scoreboardApp.controller('ScoreboardCtrl', function ($scope, $http){
+        $scope.scoreboard = {
+          edition: '',
+          competition: ''
+        }
+
+        $http.get('/events.json').success(function(data) {
+          $scope.events = data;
+          $scope.scoreboard.edition = data[0]['year']
+          $http.get('/result/'+$scope.scoreboard.edition+'.json').success(function(data) {
+            $scope.competitions = data;
+            $scope.scoreboard.competition = data[0]['compResults'];
+            $scope.updateSelector();
+          });
+        });
+        
+
+      $scope.updateSelector = function() {
+        $http.get('/result/'+$scope.scoreboard.edition+'.json').success(function(data) {
+            $scope.competitions = data;
+            $scope.scoreboard.competition = data[0]['compResults'];
+            $scope.updateScoreboard();
+        });
+      }
+
+      $scope.updateScoreboard = function() {
+        $scope.l = '/result/'+ $scope.scoreboard.edition +'/'+ $scope.scoreboard.competition;
+        $http.get( $scope.l).success(function(data) {
+          $scope.results = data;
+        });
+      }
+
+
+      });
+    </script>
 		<!--<script src="js/stickynav.js"></script>-->
-		
-		    		<script type="text/javascript">
-    		  if (window.parent) {
-    		    window.parent.scrollTo(0, $("#content", window.parent.document).offset().top);
-    		  }
-    		</script>
 			</body>
 </html>
