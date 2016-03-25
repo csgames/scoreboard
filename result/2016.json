@@ -1,15 +1,15 @@
 [  
    {  
       "compID":0,
-      "result":"overall.json",
+      "compResults":"overall.json",
       "compName_en":"Overall",
       "compName_fr":"Résultats global",
-      "compWeight":"",
+      "compWeight":100,
       "compResultsLink":null
    },
    {  
       "compID":1,
-      "result":"scavenger.json",
+      "compResults":"scavenger.json",
       "compName_en":"Scavenger Hunt / Puzzle Heros",
       "compName_fr":"Chasse au trésor / Casse-tête du Héro",
       "compWeight":10,
@@ -17,7 +17,7 @@
    },
    {  
       "compID":2,
-      "result":"long.json",
+      "compResults":"long.json",
       "compName_en":"Long running",
       "compName_fr":"Longue haleine",
       "compWeight":8,
@@ -25,7 +25,7 @@
    },
    {  
       "compID":3,
-      "result":"xp.json",
+      "compResults":"xp.json",
       "compName_en":"Extreme Programming",
       "compName_fr":"Programmation Extrême",
       "compWeight":6,
@@ -33,7 +33,7 @@
    },
    {  
       "compID":4,
-      "result":"ai.json",
+      "compResults":"ai.json",
       "compName_en":"Artificial Intelligence",
       "compName_fr":"Intelligence Artificielle",
       "compWeight":7,
@@ -41,7 +41,7 @@
    },
    {  
       "compID":5,
-      "result":"algo.json",
+      "compResults":"algo.json",
       "compName_en":"Algorithmie",
       "compName_fr":"Algorithmic",
       "compWeight":5,
@@ -49,7 +49,7 @@
    },
    {  
       "compID":6,
-      "result":"relay.json",
+      "compResults":"relay.json",
       "compName_en":"Relay Programming",
       "compName_fr":"Programmation à relais",
       "compWeight":5,
@@ -57,7 +57,7 @@
    },
    {  
       "compID":7,
-      "result":"os.json",
+      "compResults":"os.json",
       "compName_en":"Operating System",
       "compName_fr":"Système d’exploitation",
       "compWeight":5,
@@ -65,7 +65,7 @@
    },
    {  
       "compID":8,
-      "result":"compilation.json",
+      "compResults":"compilation.json",
       "compName_en":"Compilation",
       "compName_fr":"Compilation",
       "compWeight":7,
@@ -73,7 +73,7 @@
    },
    {  
       "compID":9,
-      "result":"tse.json",
+      "compResults":"tse.json",
       "compName_en":"Software Engineering",
       "compName_fr":"Ingénierie logicielle",
       "compWeight":6,
@@ -81,7 +81,7 @@
    },
    {  
       "compID":10,
-      "result":"tsc.json",
+      "compResults":"tsc.json",
       "compName_en":"Theoretical Computer Science ",
       "compName_fr":"Informatique Théorique",
       "compWeight":5,
@@ -89,7 +89,7 @@
    },
    {  
       "compID":11,
-      "result":"web.json",
+      "compResults":"web.json",
       "compName_en":"Web Developpement",
       "compName_fr":"Programmation Web",
       "compWeight":5,
@@ -97,7 +97,7 @@
    },
    {  
       "compID":12,
-      "result":"sport.json",
+      "compResults":"sport.json",
       "compName_en":"Sport & Video Game",
       "compName_fr":"Sport & Jeux Vidéo",
       "compWeight":7,
@@ -105,7 +105,7 @@
    },
    {  
       "compID":13,
-      "result":"reverse.json",
+      "compResults":"reverse.json",
       "compName_en":"Reverse Ingeneering",
       "compName_fr":"Rétroingenerie",
       "compWeight":5,
@@ -113,7 +113,7 @@
    },
    {  
       "compID":14,
-      "result":"debug.json",
+      "compResults":"debug.json",
       "compName_en":"Debugging",
       "compName_fr":"Débogage",
       "compWeight":6,
@@ -121,7 +121,7 @@
    },
    {  
       "compID":15,
-      "result":"mobile.json",
+      "compResults":"mobile.json",
       "compName_en":"Mobile development",
       "compName_fr":"Developpement Mobile",
       "compWeight":5,
@@ -129,7 +129,7 @@
    },
    {  
       "compID":16,
-      "result":"parallel.json",
+      "compResults":"parallel.json",
       "compName_en":"Parallel programming",
       "compName_fr":"Parallélisme",
       "compWeight":5,
@@ -137,7 +137,7 @@
    },
    {  
       "compID":17,
-      "result":"participation.json",
+      "compResults":"participation.json",
       "compName_en":"Participation",
       "compName_fr":"Participation",
       "compWeight":3,
