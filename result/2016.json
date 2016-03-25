@@ -1,0 +1,146 @@
+[  
+   {  
+      "compID":0,
+      "result":"overall.json",
+      "compName_en":"Overall",
+      "compName_fr":"Résultats global",
+      "compWeight":"",
+      "compResultsLink":null
+   },
+   {  
+      "compID":1,
+      "result":"scavenger.json",
+      "compName_en":"Scavenger Hunt / Puzzle Heros",
+      "compName_fr":"Chasse au trésor / Casse-tête du Héro",
+      "compWeight":10,
+      "compResultsLink":null
+   },
+   {  
+      "compID":2,
+      "result":"long.json",
+      "compName_en":"Long running",
+      "compName_fr":"Longue haleine",
+      "compWeight":8,
+      "compResultsLink":null
+   },
+   {  
+      "compID":3,
+      "result":"xp.json",
+      "compName_en":"Extreme Programming",
+      "compName_fr":"Programmation Extrême",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {  
+      "compID":4,
+      "result":"ai.json",
+      "compName_en":"Artificial Intelligence",
+      "compName_fr":"Intelligence Artificielle",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {  
+      "compID":5,
+      "result":"algo.json",
+      "compName_en":"Algorithmie",
+      "compName_fr":"Algorithmic",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":6,
+      "result":"relay.json",
+      "compName_en":"Relay Programming",
+      "compName_fr":"Programmation à relais",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":7,
+      "result":"os.json",
+      "compName_en":"Operating System",
+      "compName_fr":"Système d’exploitation",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":8,
+      "result":"compilation.json",
+      "compName_en":"Compilation",
+      "compName_fr":"Compilation",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {  
+      "compID":9,
+      "result":"tse.json",
+      "compName_en":"Software Engineering",
+      "compName_fr":"Ingénierie logicielle",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {  
+      "compID":10,
+      "result":"tsc.json",
+      "compName_en":"Theoretical Computer Science ",
+      "compName_fr":"Informatique Théorique",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":11,
+      "result":"web.json",
+      "compName_en":"Web Developpement",
+      "compName_fr":"Programmation Web",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":12,
+      "result":"sport.json",
+      "compName_en":"Sport & Video Game",
+      "compName_fr":"Sport & Jeux Vidéo",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {  
+      "compID":13,
+      "result":"reverse.json",
+      "compName_en":"Reverse Ingeneering",
+      "compName_fr":"Rétroingenerie",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":14,
+      "result":"debug.json",
+      "compName_en":"Debugging",
+      "compName_fr":"Débogage",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {  
+      "compID":15,
+      "result":"mobile.json",
+      "compName_en":"Mobile development",
+      "compName_fr":"Developpement Mobile",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":16,
+      "result":"parallel.json",
+      "compName_en":"Parallel programming",
+      "compName_fr":"Parallélisme",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {  
+      "compID":17,
+      "result":"participation.json",
+      "compName_en":"Participation",
+      "compName_fr":"Participation",
+      "compWeight":3,
+      "compResultsLink":null
+   }
+]

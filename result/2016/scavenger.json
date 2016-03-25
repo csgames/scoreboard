@@ -1,0 +1,182 @@
+[  
+   {  
+      "delegID":1,
+      "delegUniversity":"École de Technologie Supérieure1",
+      "delegAlias":"StuxnETS",
+      "teamScore":100
+   },
+   {  
+      "delegID":2,
+      "delegUniversity":"École de Technologie Supérieure2",
+      "delegAlias":"BotnETS",
+      "teamScore":98.206218442732
+   },
+   {  
+      "delegID":19,
+      "delegUniversity":"Rochester2",
+      "delegAlias":"Black Hats",
+      "teamScore":97.143236779166
+   },
+   {  
+      "delegID":18,
+      "delegUniversity":"Rochester1",
+      "delegAlias":"White Hats",
+      "teamScore":96.213127823545
+   },
+   {  
+      "delegID":5,
+      "delegUniversity":"Concordia1",
+      "delegAlias":"Arcologists",
+      "teamScore":82.261493489237
+   },
+   {  
+      "delegID":9,
+      "delegUniversity":"Laval1",
+      "delegAlias":"Code troopers ulaval legion 1",
+      "teamScore":78.740366728674
+   },
+   {  
+      "delegID":6,
+      "delegUniversity":"Concordia2",
+      "delegAlias":"Darth Raiders",
+      "teamScore":78.673930374701
+   },
+   {  
+      "delegID":10,
+      "delegUniversity":"Laval2",
+      "delegAlias":"Code troopers ulaval legion 2",
+      "teamScore":71.61838958278
+   },
+   {  
+      "delegID":24,
+      "delegUniversity":"UQAM1",
+      "delegAlias":"LispMachine",
+      "teamScore":67.645495615201
+   },
+   {  
+      "delegID":25,
+      "delegUniversity":"UQAM2",
+      "delegAlias":"ApocaLISP",
+      "teamScore":66.848259367526
+   },
+   {  
+      "delegID":23,
+      "delegUniversity":"UQAC",
+      "delegAlias":"The John C#",
+      "teamScore":64.456550624502
+   },
+   {  
+      "delegID":16,
+      "delegUniversity":"Poly2",
+      "delegAlias":"PolyRed",
+      "teamScore":62.729205421206
+   },
+   {  
+      "delegID":20,
+      "delegUniversity":"Sherbrooke1",
+      "delegAlias":"JDIs",
+      "teamScore":62.596332713261
+   },
+   {  
+      "delegID":15,
+      "delegUniversity":"Poly1",
+      "delegAlias":"PolyBlue",
+      "teamScore":62.596332713261
+   },
+   {  
+      "delegID":21,
+      "delegUniversity":"Sherbrooke2",
+      "delegAlias":"Dark JDIs",
+      "teamScore":58.743024182833
+   },
+   {  
+      "delegID":17,
+      "delegUniversity":"Queens",
+      "delegAlias":"Additional Pylons",
+      "teamScore":51.435025245815
+   },
+   {  
+      "delegID":28,
+      "delegUniversity":"Windsor2",
+      "delegAlias":"Dub City",
+      "teamScore":47.050225883604
+   },
+   {  
+      "delegID":26,
+      "delegUniversity":"UQO",
+      "delegAlias":"REI",
+      "teamScore":45.854371512091
+   },
+   {  
+      "delegID":8,
+      "delegUniversity":"Laurentian2",
+      "delegAlias":"Vault lul",
+      "teamScore":44.658517140579
+   },
+   {  
+      "delegID":7,
+      "delegUniversity":"Laurentian1",
+      "delegAlias":"New Sudbury Republic",
+      "teamScore":43.462662769067
+   },
+   {  
+      "delegID":14,
+      "delegUniversity":"Ottawa",
+      "delegAlias":"Yoga Rebels",
+      "teamScore":42.798299229338
+   },
+   {  
+      "delegID":11,
+      "delegUniversity":"Manitoba1",
+      "delegAlias":"District HEX",
+      "teamScore":40.805208610151
+   },
+   {  
+      "delegID":22,
+      "delegUniversity":"UDEM",
+      "delegAlias":"Garbage Collectors",
+      "teamScore":40.53946319426
+   },
+   {  
+      "delegID":12,
+      "delegUniversity":"Manitoba2",
+      "delegAlias":"HEX-men",
+      "teamScore":37.483390911507
+   },
+   {  
+      "delegID":29,
+      "delegUniversity":"York1",
+      "delegAlias":"FluffyHackers",
+      "teamScore":20.143502524581
+   },
+   {  
+      "delegID":27,
+      "delegUniversity":"Windsor1",
+      "delegAlias":"Tsintax Error",
+      "teamScore":16.88812117991
+   },
+   {  
+      "delegID":30,
+      "delegUniversity":"York2",
+      "delegAlias":"Fluffy hackers 2",
+      "teamScore":12.357161838958
+   },
+   {  
+      "delegID":4,
+      "delegUniversity":"Brock2",
+      "delegAlias":"Clone High",
+      "teamScore":0.41190539463194
+   },
+   {  
+      "delegID":3,
+      "delegUniversity":"Brock1",
+      "delegAlias":"Clone University",
+      "teamScore":0
+   },
+   {  
+      "delegID":13,
+      "delegUniversity":"MCGill",
+      "delegAlias":"while (e_coyote) {}",
+      "teamScore":0
+   }
+]
