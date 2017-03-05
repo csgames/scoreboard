@@ -1,4 +1,5 @@
 import os
+import re
 from flask import Flask, send_file, url_for
 
 app = Flask(__name__)
@@ -17,23 +18,25 @@ def return_index():
 
 @app.route('/result/<year>.json')
 def result_competition_list(year):
-	try:
-		return send_file(''.join(('result/',year,'.json')))
-	except Exception as e:
-		return str(e)
+    if re.match('^\d{4}$',year):
+	    try:
+		    return send_file(''.join(('result/',year,'.json')))
+	    except Exception as e:
+		    return str(e)
+    return '[]'
 
 @app.route('/result/<year>/<competition>.json')
 def result_competition(year,competition):
-    print('_'.join((year,competition.upper())))
-    show_result = os.getenv('_'.join((year,competition.upper())), False)
-    print(show_result)
-    if show_result:
-	    try:
-		   return send_file(''.join(('result/',year,'/',competition,'.json')))
-	    except Exception as e:
-		   return str(e)
-    else:
-        return '[]'
+    competition_valide = ['ai','algo','compilation','debug','long','mobile','os','overall','parallel','participation','puzzle','relay','reverse','scavenger','sport','tsc','tse','web','xp']
+    if re.match('^\d{4}$',year) and competition in competition_valide:
+        show_result = os.getenv('_'.join((year,competition.upper())), False)
+
+        if show_result:
+	       try:
+		       return send_file(''.join(('result/',year,'/',competition,'.json')))
+	       except Exception as e:
+		       return str(e)
+    return '[]'
 
 @app.route("/events.json")
 def events_json():
