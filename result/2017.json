@@ -1,0 +1,154 @@
+[
+   {
+      "compID":0,
+      "compResults":"overall.json",
+      "compName_en":"Overall",
+      "compName_fr":"Résultats global",
+      "compWeight":100,
+      "compResultsLink":null
+   },
+   {
+      "compID":1,
+      "compResults":"ai.json",
+      "compName_en":"Artificial Intelligence",
+      "compName_fr":"Intelligence Artificielle",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {
+      "compID":2,
+      "compResults":"relay.json",
+      "compName_en":"Relay Programming",
+      "compName_fr":"Programmation à Relais",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {
+      "compID":3,
+      "compResults":"xp.json",
+      "compName_en":"Extreme Programming",
+      "compName_fr":"Programmation Extrême",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":4,
+      "compResults":"tsc.json",
+      "compName_en":"Theoretical Computer Science ",
+      "compName_fr":"Informatique Théorique",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {
+      "compID":5,
+      "compResults":"sport.json",
+      "compName_en":"Sport",
+      "compName_fr":"Sport",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {
+      "compID":6,
+      "compResults":"gaming.json",
+      "compName_en":"Gaming",
+      "compName_fr":"Jeux Vidéo",
+      "compWeight":4,
+      "compResultsLink":null
+   },
+   {
+      "compID":7,
+      "compResults":"reverse.json",
+      "compName_en":"Reverse Ingeneering",
+      "compName_fr":"Rétroingénerie",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":8,
+      "compResults":"security.json",
+      "compName_en":"Security",
+      "compName_fr":"Securité",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":9,
+      "compResults":"os.json",
+      "compName_en":"Operating System",
+      "compName_fr":"Programmation Système",
+      "compWeight":7,
+      "compResultsLink":null
+   },
+   {
+      "compID":10,
+      "compResults":"debug.json",
+      "compName_en":"Debugging",
+      "compName_fr":"Débogage",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":11,
+      "compResults":"tse.json",
+      "compName_en":"GSOFT - Software Engineering",
+      "compName_fr":"GSOFT - Ingénierie logicielle",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":12,
+      "compResults":"mobile.json",
+      "compName_en":"Mirego - Mobile development",
+      "compName_fr":"Mirego - Developpement Mobile",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":13,
+      "compResults":"web.json",
+      "compName_en":"Summit - Web Developpement",
+      "compName_fr":"Summit - Programmation Web",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":14,
+      "compResults":"csec.json",
+      "compName_en":"CSEC - TBA",
+      "compName_fr":"CSEC - TBA",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":15,
+      "compResults":"puzzle.json",
+      "compName_en":"Puzzle Heros",
+      "compName_fr":"Héros du Casse-tête ",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":16,
+      "compResults":"cscoins.json",
+      "compName_en":"CSCoins",
+      "compName_fr":"CSCoins",
+      "compWeight":2,
+      "compResultsLink":null
+   },
+   {
+      "compID":17,
+      "compResults":"participation.json",
+      "compName_en":"Participation",
+      "compName_fr":"Participation",
+      "compWeight":5,
+      "compResultsLink":null
+   },
+   {
+      "compID":18,
+      "compResults":"mystere.json",
+      "compName_en":"Mystery Competition",
+      "compName_fr":"Competition Mystere",
+      "compWeight":2,
+      "compResultsLink":null
+   }
+]
