@@ -1,5 +1,5 @@
-[  
-   {  
+[
+   {
       "compID":0,
       "compResults":"overall.json",
       "compName_en":"Overall",
@@ -7,7 +7,7 @@
       "compWeight":100,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":1,
       "compResults":"scavenger.json",
       "compName_en":"Scavenger Hunt / Puzzle Heros",
@@ -15,7 +15,7 @@
       "compWeight":10,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":2,
       "compResults":"long.json",
       "compName_en":"Long running",
@@ -23,7 +23,7 @@
       "compWeight":8,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":3,
       "compResults":"xp.json",
       "compName_en":"Extreme Programming",
@@ -31,7 +31,7 @@
       "compWeight":6,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":4,
       "compResults":"ai.json",
       "compName_en":"Artificial Intelligence",
@@ -39,7 +39,7 @@
       "compWeight":7,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":5,
       "compResults":"algo.json",
       "compName_en":"Algorithmie",
@@ -47,7 +47,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":6,
       "compResults":"relay.json",
       "compName_en":"Relay Programming",
@@ -55,7 +55,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":7,
       "compResults":"os.json",
       "compName_en":"Operating System",
@@ -63,7 +63,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":8,
       "compResults":"compilation.json",
       "compName_en":"Compilation",
@@ -71,7 +71,7 @@
       "compWeight":7,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":9,
       "compResults":"tse.json",
       "compName_en":"Software Engineering",
@@ -79,7 +79,7 @@
       "compWeight":6,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":10,
       "compResults":"tsc.json",
       "compName_en":"Theoretical Computer Science ",
@@ -87,7 +87,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":11,
       "compResults":"web.json",
       "compName_en":"Web Developpement",
@@ -95,7 +95,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":12,
       "compResults":"sport.json",
       "compName_en":"Sport & Video Game",
@@ -103,15 +103,15 @@
       "compWeight":7,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":13,
       "compResults":"reverse.json",
-      "compName_en":"Reverse Ingeneering",
+      "compName_en":"Reverse Engineering",
       "compName_fr":"Rétroingenerie",
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":14,
       "compResults":"debug.json",
       "compName_en":"Debugging",
@@ -119,7 +119,7 @@
       "compWeight":6,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":15,
       "compResults":"mobile.json",
       "compName_en":"Mobile development",
@@ -127,7 +127,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":16,
       "compResults":"parallel.json",
       "compName_en":"Parallel programming",
@@ -135,7 +135,7 @@
       "compWeight":5,
       "compResultsLink":null
    },
-   {  
+   {
       "compID":17,
       "compResults":"participation.json",
       "compName_en":"Participation",

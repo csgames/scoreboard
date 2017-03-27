@@ -33,7 +33,7 @@
    },
    {
       "compID":4,
-      "compResults":"tsc.json",
+      "compResults":"tcs.json",
       "compName_en":"Theoretical Computer Science ",
       "compName_fr":"Informatique Théorique",
       "compWeight":7,
@@ -58,7 +58,7 @@
    {
       "compID":7,
       "compResults":"reverse.json",
-      "compName_en":"Reverse Ingeneering",
+      "compName_en":"Reverse Engineering",
       "compName_fr":"Rétroingénerie",
       "compWeight":6,
       "compResultsLink":null
@@ -113,9 +113,9 @@
    },
    {
       "compID":14,
-      "compResults":"csec.json",
-      "compName_en":"CSEC - TBA",
-      "compName_fr":"CSEC - TBA",
+      "compResults":"cse.json",
+      "compName_en":"CSE",
+      "compName_fr":"CSE",
       "compWeight":6,
       "compResultsLink":null
    },
@@ -145,9 +145,9 @@
    },
    {
       "compID":18,
-      "compResults":"mystere.json",
-      "compName_en":"Mystery Competition",
-      "compName_fr":"Competition Mystere",
+      "compResults":"dragon.json",
+      "compName_en":"Dragon's tank",
+      "compName_fr":"Dragon's tank",
       "compWeight":2,
       "compResultsLink":null
    }

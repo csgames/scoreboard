@@ -27,9 +27,10 @@ def result_competition_list(year):
 
 @app.route('/result/<year>/<competition>.json')
 def result_competition(year,competition):
-    competition_valide = ['ai','algo','compilation','debug','long','mobile','os','overall','parallel','participation','puzzle','relay','reverse','scavenger','sport','tsc','tse','web','xp']
+    competition_valide = ['ai','algo','compilation','debug','long','mobile','os','overall','parallel','participation','puzzle','relay','reverse','scavenger','sport','tcs','tse','web','xp','gaming','security','dragon','cscoins','cse']
     if re.match('^\d{4}$',year) and competition in competition_valide:
-        show_result = os.getenv('_'.join((year,competition.upper())), False)
+        #show_result = os.getenv('_'.join((year,competition.upper())), False)
+        show_result='true'
         print(show_result)
         if show_result == 'true':
             print('hello')
