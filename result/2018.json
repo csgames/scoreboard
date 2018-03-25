@@ -1,0 +1,146 @@
+[
+   {
+      "compID":0,
+      "compResults":"overall.json",
+      "compName_en":"Overall",
+      "compName_fr":"Résultats global",
+      "compWeight":100,
+      "compResultsLink":null
+   },
+   {
+      "compID":1,
+      "compResults":"ai.json",
+      "compName_en":"Artificial Intelligence",
+      "compName_fr":"Intelligence Artificielle",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":2,
+      "compResults":"relay.json",
+      "compName_en":"Relay Programming",
+      "compName_fr":"Programmation à Relais",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":3,
+      "compResults":"embedded.json",
+      "compName_en":"Embedded Programming",
+      "compName_fr":"Programmation Embarqué",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":4,
+      "compResults":"tcs.json",
+      "compName_en":"Theoretical Computer Science ",
+      "compName_fr":"Informatique Théorique",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":5,
+      "compResults":"sport.json",
+      "compName_en":"Sport",
+      "compName_fr":"Sport",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":6,
+      "compResults":"gaming.json",
+      "compName_en":"Gaming",
+      "compName_fr":"Jeux Vidéo",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":7,
+      "compResults":"functional.json",
+      "compName_en":"Functional Programming",
+      "compName_fr":"Programmation fonctionnelle",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":8,
+      "compResults":"security.json",
+      "compName_en":"Security",
+      "compName_fr":"Securité",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":9,
+      "compResults":"os.json",
+      "compName_en":"Operating System",
+      "compName_fr":"Programmation Système",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":10,
+      "compResults":"ml.json",
+      "compName_en":"Machine Learning",
+      "compName_fr":"Apprentissage automatique",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":11,
+      "compResults":"tse.json",
+      "compName_en":"Team Software Engineering",
+      "compName_fr":"Ingénierie logicielle en équipe",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":12,
+      "compResults":"bell.json",
+      "compName_en":"Bell",
+      "compName_fr":"Bell",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":13,
+      "compResults":"mirego.json",
+      "compName_en":"Mirego",
+      "compName_fr":"Mirego",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":14,
+      "compResults":"cse.json",
+      "compName_en":"CSE-CST",
+      "compName_fr":"CSE-CST",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":15,
+      "compResults":"olympus.json",
+      "compName_en":"Olympus",
+      "compName_fr":"Olympus",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":16,
+      "compResults":"puzzle.json",
+      "compName_en":"Puzzle Heros",
+      "compName_fr":"Héros du Casse-tête ",
+      "compWeight":6,
+      "compResultsLink":null
+   },
+   {
+      "compID":17,
+      "compResults":"participation.json",
+      "compName_en":"Participation",
+      "compName_fr":"Participation",
+      "compWeight":4,
+      "compResultsLink":null
+   }
+]
