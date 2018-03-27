@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "compID": 17,
+    "teamScore": 100,
+    "delegAlias": "",
+    "delegUniversity": "Université Laval",
+    "delegID": "4"
+  },
+  {
+    "compID": 17,
+    "teamScore": 99.7,
+    "delegAlias": "",
+    "delegUniversity": "École de technologie supérieure",
+    "delegID": "26"
+  },
+  {
+    "compID": 17,
+    "teamScore": 99.2,
+    "delegAlias": "",
+    "delegUniversity": "Concordia University",
+    "delegID": "2"
+  },
+  {
+    "compID": 17,
+    "teamScore": 93.6,
+    "delegAlias": "",
+    "delegUniversity": "Carleton University",
+    "delegID": "22"
+  },
+  {
+    "compID": 17,
+    "teamScore": 84.6,
+    "delegAlias": "",
+    "delegUniversity": "Brock University",
+    "delegID": "3"
+  },
+  {
+    "compID": 17,
+    "teamScore": 79,
+    "delegAlias": "",
+    "delegUniversity": "Polytechnique Montréal",
+    "delegID": "14"
+  },
+  {
+    "compID": 17,
+    "teamScore": 76.7,
+    "delegAlias": "",
+    "delegUniversity": "Université de Moncton",
+    "delegID": "1"
+  },
+  {
+    "compID": 17,
+    "teamScore": 74.2,
+    "delegAlias": "",
+    "delegUniversity": "Université de Montréal",
+    "delegID": "11"
+  },
+  {
+    "compID": 17,
+    "teamScore": 70.4,
+    "delegAlias": "",
+    "delegUniversity": "McMaster University",
+    "delegID": "25"
+  },
+  {
+    "compID": 17,
+    "teamScore": 66.3,
+    "delegAlias": "",
+    "delegUniversity": "Université de Sherbrooke",
+    "delegID": "16"
+  },
+  {
+    "compID": 17,
+    "teamScore": 53.8,
+    "delegAlias": "",
+    "delegUniversity": "University of Guelph",
+    "delegID": "18"
+  },
+  {
+    "compID": 17,
+    "teamScore": 44.9,
+    "delegAlias": "",
+    "delegUniversity": "Université du Québec à Montréal",
+    "delegID": "9"
+  },
+  {
+    "compID": 17,
+    "teamScore": 44.9,
+    "delegAlias": "",
+    "delegUniversity": "Université du Québec en Outaouais",
+    "delegID": "12"
+  },
+  {
+    "compID": 17,
+    "teamScore": 41,
+    "delegAlias": "",
+    "delegUniversity": "University of Ottawa",
+    "delegID": "6"
+  },
+  {
+    "compID": 17,
+    "teamScore": 40.5,
+    "delegAlias": "",
+    "delegUniversity": "University of Rochester",
+    "delegID": "20"
+  },
+  {
+    "compID": 17,
+    "teamScore": 29,
+    "delegAlias": "",
+    "delegUniversity": "Laurentian University",
+    "delegID": "24"
+  },
+  {
+    "compID": 17,
+    "teamScore": 21.4,
+    "delegAlias": "",
+    "delegUniversity": "University of Windsor",
+    "delegID": "8"
+  },
+  {
+    "compID": 17,
+    "teamScore": 17.6,
+    "delegAlias": "",
+    "delegUniversity": "York University",
+    "delegID": "29"
+  }
+]
