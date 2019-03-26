@@ -1,16 +1,17 @@
-[    {
-        "compID": 14,
-        "teamScore": 100.00,
-        "delegAlias": "Xargonauts",
-        "delegUniversity": "Université du Québec à Montréal",
-        "delegID": "9"
-    },
+[   
     {
         "compID": 14,
         "teamScore": 100.00,
         "delegAlias": "Bataille LAVAL",
         "delegUniversity": "Université Laval",
         "delegID": "3"
+    },
+    {
+        "compID": 14,
+        "teamScore": 100.00,
+        "delegAlias": "Xargonauts",
+        "delegUniversity": "Université du Québec à Montréal",
+        "delegID": "9"
     },
     {
         "compID": 14,
