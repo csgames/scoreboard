@@ -1,0 +1,197 @@
+[    {
+        "compID": 7,
+        "teamScore": 100.00,
+        "delegAlias": "Bataille LAVAL",
+        "delegUniversity": "Université Laval",
+        "delegID": "3"
+    },
+    {
+        "compID": 7,
+        "teamScore": 90.04,
+        "delegAlias": "ETS of Empires",
+        "delegUniversity": "École de technologie supérieure",
+        "delegID": "1"
+    },
+    {
+        "compID": 7,
+        "teamScore": 80.07,
+        "delegAlias": "PoLINUX 1",
+        "delegUniversity": "Polytechnique Montréal",
+        "delegID": "2"
+    },
+    {
+        "compID": 7,
+        "teamScore": 69.31,
+        "delegAlias": "McBrooke",
+        "delegUniversity": "Université de Sherbrooke",
+        "delegID": "4"
+    },
+    {
+        "compID": 7,
+        "teamScore": 67.15,
+        "delegAlias": "Carleton",
+        "delegUniversity": "Carleton University",
+        "delegID": "10"
+    },
+    {
+        "compID": 7,
+        "teamScore": 65.56,
+        "delegAlias": "ETS of Mythology",
+        "delegUniversity": "École de technologie supérieure",
+        "delegID": "6"
+    },
+    {
+        "compID": 7,
+        "teamScore": 40.43,
+        "delegAlias": "The floor is LAVAL",
+        "delegUniversity": "Université Laval",
+        "delegID": "5"
+    },
+    {
+        "compID": 7,
+        "teamScore": 36.82,
+        "delegAlias": ".wav surfer",
+        "delegUniversity": "Université du Québec à Montréal",
+        "delegID": "21"
+    },
+    {
+        "compID": 7,
+        "teamScore": 27.80,
+        "delegAlias": "Xargonauts",
+        "delegUniversity": "Université du Québec à Montréal",
+        "delegID": "9"
+    },
+    {
+        "compID": 7,
+        "teamScore": 25.99,
+        "delegAlias": "PoLINUX 2",
+        "delegUniversity": "Polytechnique Montréal",
+        "delegID": "13"
+    },
+    {
+        "compID": 7,
+        "teamScore": 22.38,
+        "delegAlias": "Laurentian",
+        "delegUniversity": "Laurentian University of Sudbury",
+        "delegID": "27"
+    },
+    {
+        "compID": 7,
+        "teamScore": 22.31,
+        "delegAlias": "000",
+        "delegUniversity": "York University",
+        "delegID": "23"
+    },
+    {
+        "compID": 7,
+        "teamScore": 16.97,
+        "delegAlias": "Lost At C",
+        "delegUniversity": "Concordia University",
+        "delegID": "17"
+    },
+    {
+        "compID": 7,
+        "teamScore": 16.90,
+        "delegAlias": "Citation Needed",
+        "delegUniversity": "University of Ottawa",
+        "delegID": "8"
+    },
+    {
+        "compID": 7,
+        "teamScore": 16.82,
+        "delegAlias": "Cruisaders",
+        "delegUniversity": "Concordia University",
+        "delegID": "7"
+    },
+    {
+        "compID": 7,
+        "teamScore": 16.75,
+        "delegAlias": "Rochester2",
+        "delegUniversity": "University of Rochester",
+        "delegID": "22"
+    },
+    {
+        "compID": 7,
+        "teamScore": 16.68,
+        "delegAlias": "HeisenBug",
+        "delegUniversity": "University of Ottawa",
+        "delegID": "16"
+    },
+    {
+        "compID": 7,
+        "teamScore": 13.36,
+        "delegAlias": "The FriendSHIP",
+        "delegUniversity": "University of Manitoba",
+        "delegID": "15"
+    },
+    {
+        "compID": 7,
+        "teamScore": 13.29,
+        "delegAlias": "McGill",
+        "delegUniversity": "McGill University",
+        "delegID": "11"
+    },
+    {
+        "compID": 7,
+        "teamScore": 13.21,
+        "delegAlias": "Overflowed",
+        "delegUniversity": "University of Rochester",
+        "delegID": "14"
+    },
+    {
+        "compID": 7,
+        "teamScore": 9.75,
+        "delegAlias": "Ruby on Sails",
+        "delegUniversity": "University of Guelph",
+        "delegID": "18"
+    },
+    {
+        "compID": 7,
+        "teamScore": 9.68,
+        "delegAlias": "UQO",
+        "delegUniversity": "Université du Québec en Outaouais",
+        "delegID": "25"
+    },
+    {
+        "compID": 7,
+        "teamScore": 9.60,
+        "delegAlias": "Black Perl",
+        "delegUniversity": "University of Guelph",
+        "delegID": "20"
+    },
+    {
+        "compID": 7,
+        "teamScore": 9.53,
+        "delegAlias": "sudo rm -rf /",
+        "delegUniversity": "University of Windsor",
+        "delegID": "28"
+    },
+    {
+        "compID": 7,
+        "teamScore": 9.46,
+        "delegAlias": "Windsor Team A",
+        "delegUniversity": "University of Windsor",
+        "delegID": "19"
+    },
+    {
+        "compID": 7,
+        "teamScore": 4.33,
+        "delegAlias": "SherGill",
+        "delegUniversity": "Université de Sherbrooke",
+        "delegID": "12"
+    },
+    {
+        "compID": 7,
+        "teamScore": 4.26,
+        "delegAlias": "UDEM",
+        "delegUniversity": "Université de Montréal",
+        "delegID": "26"
+    },
+    {
+        "compID": 7,
+        "teamScore": 0.72,
+        "delegAlias": "Brock",
+        "delegUniversity": "Brock University",
+        "delegID": "24"
+    }
+]

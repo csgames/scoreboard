@@ -1,0 +1,139 @@
+[
+    {
+       "compID":0,
+       "compResults":"overall.json",
+       "compName_en":"Overall",
+       "compName_fr":"Résultats global",
+       "compWeight":100,
+       "compResultsLink":null
+    },
+    {
+       "compID":1,
+       "compResults":"ai.json",
+       "compName_en":"Artificial Intelligence",
+       "compName_fr":"Intelligence Artificielle",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+       "compID":2,
+       "compResults":"relay.json",
+       "compName_en":"Relay Programming",
+       "compName_fr":"Programmation à Relais",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":3,
+       "compResults":"embedded.json",
+       "compName_en":"Hardware hacking",
+       "compName_fr":"Hardware hacking",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":4,
+       "compResults":"tcs.json",
+       "compName_en":"Xtreme Theory",
+       "compName_fr":"Théorie Extrême",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":5,
+       "compResults":"sport.json",
+       "compName_en":"Sport",
+       "compName_fr":"Sport",
+       "compWeight":5,
+       "compResultsLink":null
+    },
+    {
+       "compID":6,
+       "compResults":"functional.json",
+       "compName_en":"Functional Programming",
+       "compName_fr":"Programmation fonctionnelle",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":7,
+       "compResults":"security.json",
+       "compName_en":"National Bank - Application Security",
+       "compName_fr":"Banque Nationale - Sécurité Applicative",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+       "compID":8,
+       "compResults":"compiler.json",
+       "compName_en":"Compiler",
+       "compName_fr":"Compilateur",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":9,
+       "compResults":"devops.json",
+       "compName_en":"DevOps",
+       "compName_fr":"DevOps",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":10,
+       "compResults":"tse.json",
+       "compName_en":"Team Software Engineering",
+       "compName_fr":"Ingénierie logicielle en équipe",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+       "compID":11,
+       "compResults":"web.json",
+       "compName_en":"PSC - Web",
+       "compName_fr":"CFP - Web",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+       "compID":12,
+       "compResults":"mirego.json",
+       "compName_en":"Mirego - Mobile development",
+       "compName_fr":"Mirego - Développement Mobile",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+       "compID":13,
+       "compResults":"cse.json",
+       "compName_en":"CSE - Security",
+       "compName_fr":"CST - Sécurité Informatique",
+       "compWeight":7,
+       "compResultsLink":null
+    },
+    {
+        "compID":14,
+        "compResults":"reverse.json",
+        "compName_en":"Reverse Engineering",
+        "compName_fr":"Retro-ingénierie",
+        "compWeight":6,
+        "compResultsLink":null
+     },
+    {
+       "compID":15,
+       "compResults":"puzzle.json",
+       "compName_en":"Puzzle Heros",
+       "compName_fr":"Puzzle Heros",
+       "compWeight":6,
+       "compResultsLink":null
+    },
+    {
+       "compID":16,
+       "compResults":"participation.json",
+       "compName_en":"Participation",
+       "compName_fr":"Participation",
+       "compWeight":5,
+       "compResultsLink":null
+    }
+ ]
+ 

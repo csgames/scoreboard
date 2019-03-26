@@ -27,7 +27,7 @@ def result_competition_list(year):
 
 @app.route('/result/<year>/<competition>.json')
 def result_competition(year,competition):
-    competition_valide = ['ai','algo','bell','compilation','cscoins','cse','debug','dragon','embedded','functional','gaming','long','mirego','ml','mobile','olympus','os','overall','parallel','participation','puzzle','relay','reverse','security','scavenger','sport','tcs','tse','web','xp']
+    competition_valide = ['ai','algo','bell','compilation','compiler','cscoins','cse','debug','dragon','devops','embedded','functional','gaming','long','mirego','ml','mobile','olympus','os','overall','parallel','participation','puzzle','relay','reverse','security','scavenger','sport','tcs','tse','web','xp']
     if re.match('^\d{4}$',year) and competition in competition_valide:
         #show_result = os.getenv('_'.join((year,competition.upper())), False)
         show_result='true'
