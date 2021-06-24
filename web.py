@@ -1,6 +1,7 @@
 import os
 import re
-from flask import Flask, send_file, url_for
+
+from flask import Flask, send_file
 
 app = Flask(__name__)
 
@@ -20,7 +21,7 @@ def return_index():
 
 @app.route("/result/<year>.json")
 def result_competition_list(year):
-    if re.match("^\d{4}$", year):
+    if re.match(r"^\d{4}$", year):
         try:
             return send_file("".join(("result/", year, ".json")))
         except Exception as e:
@@ -84,7 +85,7 @@ def result_competition(year, competition):
         "19",
         "20",
     ]
-    if re.match("^\d{4}$", year) and competition in competition_valide:
+    if re.match(r"^\d{4}$", year) and competition in competition_valide:
         # show_result = os.getenv('_'.join((year,competition.upper())), False)
         show_result = "true"
         print(show_result)

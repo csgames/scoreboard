@@ -31,10 +31,3 @@ repos:
     entry: pipenv run mypy
     types: [python]
     require_serial: true
-
-  - id: bandit
-    name: bandit
-    entry: bandit
-    language: python
-    types: [python]
-    args:  [--ini, .bandit, --recursive]
