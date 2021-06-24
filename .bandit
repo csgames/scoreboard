@@ -1,0 +1,3 @@
+[bandit]
+targets: web.py
+skips: B101
