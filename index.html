@@ -63,7 +63,7 @@
   </select>
 
   <select name="cboComp" id="cboComp" ng-model="scoreboard.competition" ng-change="updateScoreboard()">
-    <option ng-repeat="c in competitions" value="{{c.compResults}}"  >{{c.compName_en}} - {{c.compWeight}}%</option>
+    <option ng-repeat="c in competitions" value="{{c.compResults}}"  >{{c.compName_en}}{{c.compWeight ? ' - ' + c.compWeight + '%' : ''}}</option>
   </select>
 
 <h2>R&eacute;sultat Global</h2>
@@ -79,7 +79,7 @@
   </thead>
   <tbody>
 
-    <tr ng-repeat="r in results">
+    <tr ng-repeat="r in results | orderBy:'-teamScore'">
       <td class="tableContent" align="center">{{$index + 1}}</td>
       <td class="tableContent">{{r.delegUniversity}}</td>
       <td class="tableContent">{{r.delegAlias}}</td>
