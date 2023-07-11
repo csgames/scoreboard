@@ -1,0 +1,128 @@
+[
+    {
+        "compID": 8,
+        "teamScore": 31.25,
+        "delegAlias": "Rouge",
+        "delegUniversity": "Universit\u00e9 Laval",
+        "delegID": 2
+    },
+    {
+        "compID": 8,
+        "teamScore": 26.25,
+        "delegAlias": "et Or",
+        "delegUniversity": "Universit\u00e9 Laval",
+        "delegID": 3
+    },
+    {
+        "compID": 8,
+        "teamScore": 100.0,
+        "delegAlias": "A\u00e9ron\u00c9TS",
+        "delegUniversity": "\u00c9cole de Technologie Sup\u00e9rieure",
+        "delegID": 4
+    },
+    {
+        "compID": 8,
+        "teamScore": 72.92,
+        "delegAlias": "Subw\u00c9TS",
+        "delegUniversity": "\u00c9cole de Technologie Sup\u00e9rieure",
+        "delegID": 5
+    },
+    {
+        "compID": 8,
+        "teamScore": 26.46,
+        "delegAlias": "Les Pigeonniers",
+        "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+        "delegID": 6
+    },
+    {
+        "compID": 8,
+        "teamScore": 10.62,
+        "delegAlias": "Les Pompistes",
+        "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+        "delegID": 7
+    },
+    {
+        "compID": 8,
+        "teamScore": 83.33,
+        "delegAlias": "Null Pointer Collective",
+        "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+        "delegID": 8
+    },
+    {
+        "compID": 8,
+        "teamScore": 10.42,
+        "delegAlias": "UQAMinati",
+        "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+        "delegID": 9
+    },
+    {
+        "compID": 8,
+        "teamScore": 20.83,
+        "delegAlias": "Hydro Sherbrooke",
+        "delegUniversity": "Universit\u00e9 de Sherbrooke",
+        "delegID": 10
+    },
+    {
+        "compID": 8,
+        "teamScore": 11.25,
+        "delegAlias": "Explorers of the C",
+        "delegUniversity": "Universit\u00e9 de Sherbrooke",
+        "delegID": 11
+    },
+    {
+        "compID": 8,
+        "teamScore": 52.08,
+        "delegAlias": "Polys(t)yr\u00e8ne A\u00a0",
+        "delegUniversity": "Polytechnique",
+        "delegID": 12
+    },
+    {
+        "compID": 8,
+        "teamScore": 11.04,
+        "delegAlias": "Polys(t)yr\u00e8ne B",
+        "delegUniversity": "Polytechnique",
+        "delegID": 13
+    },
+    {
+        "compID": 8,
+        "teamScore": 0.0,
+        "delegAlias": "Loop Troops",
+        "delegUniversity": "University of Windsor",
+        "delegID": 14
+    },
+    {
+        "compID": 8,
+        "teamScore": 26.04,
+        "delegAlias": "CTRL-ALT-ELITES",
+        "delegUniversity": "University of Windsor",
+        "delegID": 15
+    },
+    {
+        "compID": 8,
+        "teamScore": 27.08,
+        "delegAlias": "Shutdfown /r",
+        "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+        "delegID": 16
+    },
+    {
+        "compID": 8,
+        "teamScore": 29.17,
+        "delegAlias": "Cyber Submerged",
+        "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+        "delegID": 17
+    },
+    {
+        "compID": 8,
+        "teamScore": 20.62,
+        "delegAlias": "Code-Blooded Concordia",
+        "delegUniversity": "Concordia University",
+        "delegID": 18
+    },
+    {
+        "compID": 8,
+        "teamScore": 10.83,
+        "delegAlias": "McKrill",
+        "delegUniversity": "McGill University",
+        "delegID": 19
+    }
+]

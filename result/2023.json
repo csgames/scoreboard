@@ -1,0 +1,108 @@
+[
+    {
+       "compID":1,
+       "compResults":"Overall.json",
+       "compName_en":"Overall",
+       "compName_fr":"Résultats global",
+       "compResultsLink":null
+    },
+    {
+       "compID":2,
+       "compResults":"Mobile.json",
+       "compName_en":"Mobile",
+       "compName_fr":"Mobile",
+       "compResultsLink":null
+    },
+    {
+       "compID":3,
+       "compResults":"Assets Creation.json",
+       "compName_en":"Assets Creation",
+       "compName_fr":"Création d'actifs",
+       "compResultsLink":null
+    },
+    {
+       "compID":4,
+       "compResults":"Gaming.json",
+       "compName_en":"Gaming",
+       "compName_fr":"Gaming",
+       "compResultsLink":null
+    },
+    {
+       "compID":5,
+       "compResults":"Game Dev.json",
+       "compName_en":"Game Dev",
+       "compName_fr":"Développement de jeux vidéo",
+       "compResultsLink":null
+    },
+    {
+       "compID":6,
+       "compResults":"Machine Learning.json",
+       "compName_en":"Machine Learning",
+       "compName_fr":"Machine Learning",
+       "compResultsLink":null
+    },
+    {
+       "compID":7,
+       "compResults":"Relay Programming.json",
+       "compName_en":"Relay Programming",
+       "compName_fr":"Programmation à relais",
+       "compResultsLink":null
+    },
+    {
+       "compID":8,
+       "compResults":"CTF.json",
+       "compName_en":"Capture The Flag (CTF)",
+       "compName_fr":"Capture The Flag (CTF)",
+       "compResultsLink":null
+    },
+    {
+       "compID":9,
+       "compResults":"Emulator.json",
+       "compName_en":"Emulator",
+       "compName_fr":"Émulateur",
+       "compResultsLink":null
+    },
+    {
+       "compID":10,
+       "compResults":"Web.json",
+       "compName_en":"Web",
+       "compName_fr":"Web",
+       "compResultsLink":null
+    },
+    {
+       "compID":11,
+       "compResults":"Croesus – Transaction Optimization.json",
+       "compName_en":"Croesus - Transaction Optimization",
+       "compName_fr":"Croesus - Optimisation de Transaction",
+       "compResultsLink":null
+    },
+    {
+       "compID":12,
+       "compResults":"Extreme Programming.json",
+       "compName_en":"Extreme Programming",
+       "compName_fr":"Extreme Programming",
+       "compResultsLink":null
+    },
+    {
+       "compID":13,
+       "compResults":"Sport.json",
+       "compName_en":"Sport",
+       "compName_fr":"Sport",
+       "compResultsLink":null
+    },
+    {
+       "compID":14,
+       "compResults":"Trivia.json",
+       "compName_en":"Trivia",
+       "compName_fr":"Trivia",
+       "compResultsLink":null
+    },
+    {
+        "compID":15,
+        "compResults":"Puzzle Hero.json",
+        "compName_en":"Pulsar - Puzzle Hero",
+        "compName_fr":"Pulsar - Puzzle Hero",
+        "compResultsLink":null
+    }
+ ]
+ 
