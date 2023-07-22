@@ -108,10 +108,10 @@
           competition: ''
         }
 
-        $http.get('/events.json').success(function(data) {
+        $http.get('events.json').success(function(data) {
           $scope.events = data;
           $scope.scoreboard.edition = data[0]['year']
-          $http.get('/result/'+$scope.scoreboard.edition+'.json').success(function(data) {
+          $http.get('result/'+$scope.scoreboard.edition+'.json').success(function(data) {
             $scope.competitions = data;
             $scope.scoreboard.competition = data[0]['compResults'];
             $scope.updateSelector();
@@ -120,7 +120,7 @@
 
 
       $scope.updateSelector = function() {
-        $http.get('/result/'+$scope.scoreboard.edition+'.json').success(function(data) {
+        $http.get('result/'+$scope.scoreboard.edition+'.json').success(function(data) {
             $scope.competitions = data;
             $scope.scoreboard.competition = data[0]['compResults'];
             $scope.updateScoreboard();
@@ -128,7 +128,7 @@
       }
 
       $scope.updateScoreboard = function() {
-        $scope.l = '/result/'+ $scope.scoreboard.edition +'/'+ $scope.scoreboard.competition;
+        $scope.l = 'result/'+ $scope.scoreboard.edition +'/'+ $scope.scoreboard.competition;
         $http.get( $scope.l).success(function(data) {
           $scope.results = data;
         });
