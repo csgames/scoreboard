@@ -1,0 +1,128 @@
+[
+  {
+    "compId": 1,
+    "compResults": "1-overall.json",
+    "compName_en": "Overall",
+    "compName_fr": "R\u00e9sultats global",
+    "compWeight": 100.0
+  },
+  {
+    "compId": 2,
+    "compResults": "2-info-theo.json",
+    "compName_en": "Info-Theo",
+    "compName_fr": "Info-Th\u00e9o",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 3,
+    "compResults": "3-os.json",
+    "compName_en": "OS",
+    "compName_fr": "OS",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 4,
+    "compResults": "4-chatbot.json",
+    "compName_en": "Chatbot",
+    "compName_fr": "Chatbot",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 5,
+    "compResults": "5-team_software_engineering.json",
+    "compName_en": "Team Software Engineering",
+    "compName_fr": "Ing\u00e9nierie logicielle d'\u00e9quipe",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 6,
+    "compResults": "6-modular_development.json",
+    "compName_en": "Modular Development",
+    "compName_fr": "D\u00e9veloppement modulaire",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 7,
+    "compResults": "7-triathlon.json",
+    "compName_en": "Triathlon",
+    "compName_fr": "Triathlon",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 8,
+    "compResults": "8-devops.json",
+    "compName_en": "DevOps",
+    "compName_fr": "DevOps",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 9,
+    "compResults": "9-iot.json",
+    "compName_en": "IOT",
+    "compName_fr": "IOT",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 10,
+    "compResults": "10-high_performance_computing.json",
+    "compName_en": "High Performance Computing",
+    "compName_fr": "Calcul haute performance",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 11,
+    "compResults": "11-extreme_programming.json",
+    "compName_en": "Extreme Programming",
+    "compName_fr": "Programmation extr\u00eame",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 12,
+    "compResults": "12-debugging.json",
+    "compName_en": "Debugging",
+    "compName_fr": "Debugging",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 13,
+    "compResults": "13-database.json",
+    "compName_en": "Database",
+    "compName_fr": "Base de donn\u00e9es",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 14,
+    "compResults": "14-gaming.json",
+    "compName_en": "Gaming",
+    "compName_fr": "Gaming",
+    "compWeight": 3.0
+  },
+  {
+    "compId": 15,
+    "compResults": "15-art_forgery.json",
+    "compName_en": "Art Forgery",
+    "compName_fr": "Contrefa\u00e7on d'art",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 16,
+    "compResults": "16-ctf.json",
+    "compName_en": "CTF",
+    "compName_fr": "CTF",
+    "compWeight": 6.5
+  },
+  {
+    "compId": 17,
+    "compResults": "17-puzzle_hero.json",
+    "compName_en": "Puzzle Hero",
+    "compName_fr": "Puzzle Hero",
+    "compWeight": 3.0
+  },
+  {
+    "compId": 18,
+    "compResults": "18-participation.json",
+    "compName_en": "Participation",
+    "compName_fr": "Participation",
+    "compWeight": 3.0
+  }
+]
