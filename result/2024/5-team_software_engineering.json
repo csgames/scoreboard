@@ -1,15 +1,27 @@
 [
   {
     "compId": 4,
+    "delegAlias": "FellowChip",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 70.37
+  },
+  {
+    "compId": 4,
+    "delegAlias": "PETSicide",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 100.0
+  },
+  {
+    "compId": 4,
     "delegAlias": "Basilicus",
     "delegUniversity": "Universit\u00e9 de Sherbrooke",
     "teamScore": 81.48
   },
   {
     "compId": 4,
-    "delegAlias": "Ciboulettus",
-    "delegUniversity": "Universit\u00e9 de Sherbrooke",
-    "teamScore": 11.11
+    "delegAlias": "Random Forest",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 37.03
   },
   {
     "compId": 4,
@@ -25,27 +37,9 @@
   },
   {
     "compId": 4,
-    "delegAlias": "PETSicide",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
-    "teamScore": 100.0
-  },
-  {
-    "compId": 4,
-    "delegAlias": "EngrETS",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
-    "teamScore": 51.85
-  },
-  {
-    "compId": 4,
-    "delegAlias": "FellowChip",
-    "delegUniversity": "Polytechnique",
-    "teamScore": 70.37
-  },
-  {
-    "compId": 4,
-    "delegAlias": "of the Polygume",
-    "delegUniversity": "Polytechnique",
-    "teamScore": 3.7
+    "delegAlias": "Data Lake",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 11.11
   },
   {
     "compId": 4,
@@ -55,9 +49,27 @@
   },
   {
     "compId": 4,
-    "delegAlias": "cache-les-cookies",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
-    "teamScore": 0.0
+    "delegAlias": "EngrETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 51.85
+  },
+  {
+    "compId": 4,
+    "delegAlias": "of the Polygume",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 3.7
+  },
+  {
+    "compId": 4,
+    "delegAlias": "Musqlac",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+    "teamScore": 22.22
+  },
+  {
+    "compId": 4,
+    "delegAlias": "Code-Blooded",
+    "delegUniversity": "Concordia University",
+    "teamScore": 29.63
   },
   {
     "compId": 4,
@@ -67,9 +79,21 @@
   },
   {
     "compId": 4,
-    "delegAlias": "Code-Blooded",
-    "delegUniversity": "Concordia University",
-    "teamScore": 29.63
+    "delegAlias": "//path/ogens",
+    "delegUniversity": "University of Windsor",
+    "teamScore": 3.7
+  },
+  {
+    "compId": 4,
+    "delegAlias": "Code Green",
+    "delegUniversity": "University of Windsor",
+    "teamScore": 0.0
+  },
+  {
+    "compId": 4,
+    "delegAlias": "UwUQAC",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+    "teamScore": 0.0
   },
   {
     "compId": 4,
@@ -85,26 +109,14 @@
   },
   {
     "compId": 4,
-    "delegAlias": "Musclac",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
-    "teamScore": 22.22
+    "delegAlias": "Ciboulettus",
+    "delegUniversity": "Universit\u00e9 de Sherbrooke",
+    "teamScore": 11.11
   },
   {
     "compId": 4,
-    "delegAlias": "UwUQAC",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
-    "teamScore": 0.0
-  },
-  {
-    "compId": 4,
-    "delegAlias": "//path/ogens",
-    "delegUniversity": "University of Windsor",
-    "teamScore": 3.7037
-  },
-  {
-    "compId": 4,
-    "delegAlias": "Code Green",
-    "delegUniversity": "University of Windsor",
+    "delegAlias": "cache-les-cookies",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
     "teamScore": 0.0
   },
   {
@@ -118,17 +130,5 @@
     "delegAlias": "386SL",
     "delegUniversity": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
     "teamScore": 0.0
-  },
-  {
-    "compId": 4,
-    "delegAlias": "Random Forest",
-    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
-    "teamScore": 37.03
-  },
-  {
-    "compId": 4,
-    "delegAlias": "Data Lake",
-    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
-    "teamScore": 11.11
   }
 ]

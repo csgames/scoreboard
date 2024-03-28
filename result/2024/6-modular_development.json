@@ -1,15 +1,27 @@
 [
   {
     "compId": 5,
+    "delegAlias": "FellowChip",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 73.11
+  },
+  {
+    "compId": 5,
+    "delegAlias": "PETSicide",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 36.97
+  },
+  {
+    "compId": 5,
     "delegAlias": "Basilicus",
     "delegUniversity": "Universit\u00e9 de Sherbrooke",
     "teamScore": 0.84
   },
   {
     "compId": 5,
-    "delegAlias": "Ciboulettus",
-    "delegUniversity": "Universit\u00e9 de Sherbrooke",
-    "teamScore": 16.81
+    "delegAlias": "Random Forest",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 34.45
   },
   {
     "compId": 5,
@@ -25,27 +37,9 @@
   },
   {
     "compId": 5,
-    "delegAlias": "PETSicide",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
-    "teamScore": 36.97
-  },
-  {
-    "compId": 5,
-    "delegAlias": "EngrETS",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
-    "teamScore": 27.73
-  },
-  {
-    "compId": 5,
-    "delegAlias": "FellowChip",
-    "delegUniversity": "Polytechnique",
-    "teamScore": 73.11
-  },
-  {
-    "compId": 5,
-    "delegAlias": "of the Polygume",
-    "delegUniversity": "Polytechnique",
-    "teamScore": 0.0
+    "delegAlias": "Data Lake",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 19.33
   },
   {
     "compId": 5,
@@ -55,15 +49,21 @@
   },
   {
     "compId": 5,
-    "delegAlias": "cache-les-cookies",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
-    "teamScore": 16.81
+    "delegAlias": "EngrETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 27.73
   },
   {
     "compId": 5,
-    "delegAlias": "-[--->+<]>.------.[----->+<]>.>-[--->+<]>--",
-    "delegUniversity": "Universitty of Ottawa",
-    "teamScore": 18.49
+    "delegAlias": "of the Polygume",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 0.0
+  },
+  {
+    "compId": 5,
+    "delegAlias": "Musqlac",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+    "teamScore": 26.89
   },
   {
     "compId": 5,
@@ -73,27 +73,9 @@
   },
   {
     "compId": 5,
-    "delegAlias": "Ctrl-Alt-Defeat",
-    "delegUniversity": "Concordia University",
-    "teamScore": 0.0
-  },
-  {
-    "compId": 5,
-    "delegAlias": "MgCil pis Bowser",
-    "delegUniversity": "Mcgill University",
-    "teamScore": 28.57
-  },
-  {
-    "compId": 5,
-    "delegAlias": "Musclac",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
-    "teamScore": 26.89
-  },
-  {
-    "compId": 5,
-    "delegAlias": "UwUQAC",
-    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
-    "teamScore": 33.61
+    "delegAlias": "-[--->+<]>.------.[----->+<]>.>-[--->+<]>--",
+    "delegUniversity": "Universitty of Ottawa",
+    "teamScore": 18.49
   },
   {
     "compId": 5,
@@ -109,6 +91,36 @@
   },
   {
     "compId": 5,
+    "delegAlias": "UwUQAC",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+    "teamScore": 33.61
+  },
+  {
+    "compId": 5,
+    "delegAlias": "Ctrl-Alt-Defeat",
+    "delegUniversity": "Concordia University",
+    "teamScore": 0.0
+  },
+  {
+    "compId": 5,
+    "delegAlias": "MgCil pis Bowser",
+    "delegUniversity": "Mcgill University",
+    "teamScore": 28.57
+  },
+  {
+    "compId": 5,
+    "delegAlias": "Ciboulettus",
+    "delegUniversity": "Universit\u00e9 de Sherbrooke",
+    "teamScore": 16.81
+  },
+  {
+    "compId": 5,
+    "delegAlias": "cache-les-cookies",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "teamScore": 16.81
+  },
+  {
+    "compId": 5,
     "delegAlias": "Intel 4004",
     "delegUniversity": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
     "teamScore": 0.0
@@ -118,17 +130,5 @@
     "delegAlias": "386SL",
     "delegUniversity": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
     "teamScore": 1.68
-  },
-  {
-    "compId": 5,
-    "delegAlias": "Random Forest",
-    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
-    "teamScore": 34.45
-  },
-  {
-    "compId": 5,
-    "delegAlias": "Data Lake",
-    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
-    "teamScore": 42.02
   }
 ]
