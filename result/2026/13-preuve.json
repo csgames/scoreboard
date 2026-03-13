@@ -1,0 +1,134 @@
+[
+  {
+    "compId": 13,
+    "delegAlias": "InsertCoin",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi",
+    "teamScore": 100.0
+  },
+  {
+    "compId": 13,
+    "delegAlias": "CassETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 97.67
+  },
+  {
+    "compId": 13,
+    "delegAlias": "HP-35",
+    "delegUniversity": "University of Ottawa",
+    "teamScore": 88.37
+  },
+  {
+    "compId": 13,
+    "delegAlias": "6",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 81.4
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Apollus",
+    "delegUniversity": "Universit\u00e9 de Sherbrooke",
+    "teamScore": 79.07
+  },
+  {
+    "compId": 13,
+    "delegAlias": "DisquETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 77.21
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Poly Oui",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 76.74
+  },
+  {
+    "compId": 13,
+    "delegAlias": "McDoom",
+    "delegUniversity": "McGill University",
+    "teamScore": 69.77
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Golden Sun",
+    "delegUniversity": "Concordia University",
+    "teamScore": 58.6
+  },
+  {
+    "compId": 13,
+    "delegAlias": "8-Bits",
+    "delegUniversity": "University of Windsor",
+    "teamScore": 58.14
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Hack to the Future",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
+    "teamScore": 55.81
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Rouge",
+    "delegUniversity": "Universit\u00e9 Laval",
+    "teamScore": 48.84
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Poly Non",
+    "delegUniversity": "Polytechnique",
+    "teamScore": 46.51
+  },
+  {
+    "compId": 13,
+    "delegAlias": "UQAMunistes",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "teamScore": 41.86
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Artemus",
+    "delegUniversity": "Universit\u00e9 de Sherbrooke",
+    "teamScore": 37.21
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Brock Duckies",
+    "delegUniversity": "Brock University",
+    "teamScore": 30.23
+  },
+  {
+    "compId": 13,
+    "delegAlias": "7",
+    "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
+    "teamScore": 21.4
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Or",
+    "delegUniversity": "Universit\u00e9 Laval",
+    "teamScore": 20.93
+  },
+  {
+    "compId": 13,
+    "delegAlias": "UQAMrades",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "teamScore": 16.28
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Back to the byte",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
+    "teamScore": 11.63
+  },
+  {
+    "compId": 13,
+    "delegAlias": "Silver Moon",
+    "delegUniversity": "Concordia University",
+    "teamScore": 0.0
+  },
+  {
+    "compId": 13,
+    "delegAlias": "ITR",
+    "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
+    "teamScore": 0.0
+  }
+]
