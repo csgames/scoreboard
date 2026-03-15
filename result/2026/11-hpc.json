@@ -25,6 +25,12 @@
   },
   {
     "compId": 11,
+    "delegAlias": "DisquETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 82.43
+  },
+  {
+    "compId": 11,
     "delegAlias": "Brock Duckies",
     "delegUniversity": "Brock University",
     "teamScore": 80.88
@@ -123,12 +129,6 @@
     "compId": 11,
     "delegAlias": "ITR",
     "delegUniversity": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
-    "teamScore": 0.0
-  },
-  {
-    "compId": 11,
-    "delegAlias": "DisquETS",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
     "teamScore": 0.0
   }
 ]
