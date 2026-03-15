@@ -19,6 +19,12 @@
   },
   {
     "compId": 1,
+    "delegAlias": "DisquETS",
+    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
+    "teamScore": 62.0
+  },
+  {
+    "compId": 1,
     "delegAlias": "6",
     "delegUniversity": "Universit\u00e9 de Montr\u00e9al",
     "teamScore": 61.51
@@ -27,12 +33,6 @@
     "compId": 1,
     "delegAlias": "Artemus",
     "delegUniversity": "Universit\u00e9 de Sherbrooke",
-    "teamScore": 57.06
-  },
-  {
-    "compId": 1,
-    "delegAlias": "DisquETS",
-    "delegUniversity": "\u00c9cole de technologie sup\u00e9rieure",
     "teamScore": 57.06
   },
   {
