@@ -76,13 +76,13 @@
       <td class="tableContent" align="center">{{$index + 1}}</td>
       <td class="tableContent">{{r.delegUniversity}}</td>
       <td class="tableContent">{{r.delegAlias}}</td>
-      <td class="tableContent" align="center">{{r.teamScore}}</td>
+      <td class="tableContent" align="center">{{r.teamScore | pad3}}</td>
     </tr>
 
   </tbody>
 </table>
 
-</form><div>			
+</form><div>
 		</div>
 
 		<!-- Le javascript
@@ -94,6 +94,17 @@
     <script type="text/javascript">
       var scoreboardApp = angular.module('scoreboardApp', []);
 
+      // Pads numeric scores to 3 digits (e.g. 5 -> 005)
+      scoreboardApp.filter('pad3', function() {
+        return function(input) {
+            const padding = 3;
+            return input.toLocaleString('en-US', {
+                useGrouping: false,
+                minimumFractionDigits: padding,
+                maximumFractionDigits: padding
+            });
+        };
+      });
 
       scoreboardApp.controller('ScoreboardCtrl', function ($scope, $http){
         $scope.scoreboard = {
